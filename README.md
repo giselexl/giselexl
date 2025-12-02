@@ -60,24 +60,6 @@
 
 
 
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=giselexl&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giselexl&theme=dracula&hide_border=true&layout=compact&count_private=true&include_all_commits=true" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-
 <br/>  
 
 
